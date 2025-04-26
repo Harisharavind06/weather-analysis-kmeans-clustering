@@ -1,0 +1,13 @@
+Data mining
+
+how to run
+
+cd C:\Users\haris\Videos\Weather_Project
+
+python weather.py
+
+plt.style.use('seaborn-vibrant')
+
+pip install requests pandas matplotlib seaborn scikit-learn
+
+python weather.py

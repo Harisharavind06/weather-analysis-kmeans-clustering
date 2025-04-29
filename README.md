@@ -69,3 +69,5 @@ OpenWeatherMap API
 scikit-learn documentation
 
 K-Means Clustering algorithm
+
+<img src="https://t.bkit.co/w_6810c2370e27e.gif" />
